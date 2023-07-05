@@ -1,5 +1,4 @@
 ### Hello there, I'm a931528933 👋
-![](https://komarev.com/ghpvc/?a931528933)
 - I love open source. ❤️
 -  [@Github](https://github.com/a931528933)
 
