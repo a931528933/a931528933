@@ -6,6 +6,8 @@
 
 ---
 
+
+[![](https://raw.githubusercontent.com/a931528933/a931528933/main/out/github-contribution-grid-snake.svg)](https://github.com/a931528933)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=a931528933&show_icons=true&theme=radical)
 
-[![](https://raw.githubusercontent.com/a931528933/a931528933/main/out/github-contribution-grid-snake.svg)](https://github.com/a931528933)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a931528933&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a931528933&show_icons=true&theme=radical)
