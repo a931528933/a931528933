@@ -1,7 +1,6 @@
 ### Hello there, I'm a931528933 👋
 - I love open source. ❤️
 - [@Blog](https://nn.ci) [@Github](https://github.com/a931528933)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![skills](https://skillicons.dev/icons?perline=14&i=astro,bash,devto,discord,docker,electron,git,github,githubactions,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,stackoverflow,solidjs,svg,tailwind,tauri,threejs,twitter,ts,vercel,vite,vscode,vue,workers,zig)
 
 ---
